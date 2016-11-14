@@ -24,3 +24,14 @@ Does this type of visualisation help you move your thinking on in anyway?
 Does it help you to see something different?
 
 Operational Diagrams
+
+How the spreadsheet is used?
+Does it make sense?
+Do they need freeform names to the columns?
+
+## A new process
+1. create a problem space
+2. define the problem
+3. Create a workshop
+4. Define the data that you want to capture from the workshop
+
