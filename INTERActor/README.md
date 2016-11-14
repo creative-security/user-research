@@ -35,3 +35,6 @@ Do they need freeform names to the columns?
 3. Create a workshop
 4. Define the data that you want to capture from the workshop
 
+We have Actors, Relationships and Groups. Actors can be related to other actors, groups can be related to other groups. Actors can be related to groups, and vice versa.
+
+
