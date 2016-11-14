@@ -37,4 +37,7 @@ Do they need freeform names to the columns?
 
 We have Actors, Relationships and Groups. Actors can be related to other actors, groups can be related to other groups. Actors can be related to groups, and vice versa.
 
+## Data entry process
+INTERActor can prompt the user on the data contrustucion and exploration.
+
 
